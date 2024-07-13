@@ -4,20 +4,20 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/DitzOfc-Expertise/Komari_Botz">
-    <img src="https://telegra.ph/file/702d5ba4993c5196930c7.jpg">
-  <h3 align="center">Domge MD</h3>
+  <a href="https://github.com/florestfox/Domge_MD">
+    <img src="https://telegra.ph/file/10715f5ad0b92c955b69c.png">
+  <h3 align="center">Komari Botz</h3>
   <p align="center">
-    Created By Florestfox(Nanda)
+    Created By Nanda-Dev
  <p/>
 </div>
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
-<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/watchers/DitzOfc-Expertise/Komari_Botz.svg"</a>
-<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/stars/DitzOfc-Expertise/Komari_Botz.svg"</a>
-<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/forks/DitzOfc-Expertise/Komari_Botz.svg"</a>
-<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/repo-size/DitzOfc-Expertise/Komari_Botz.svg"></a>
-<a href="https://github.com/DitzOfc-Expertise/Komari_Botz/issues"><img src="https://img.shields.io/github/issues/DitzOfc-Expertise/Komari_Botz"></a>
+<a href="https://github.com/florestfox/Domge_MD"><img src="https://img.shields.io/github/watchers/florestfox/Domge_MD.svg"</a>
+<a href="https://github.com/florestfox/Domge_MD"><img src="https://img.shields.io/github/stars/florestfox/Domge_MD.svg"</a>
+<a href="https://github.com/florestfox/Domge_MD"><img src="https://img.shields.io/github/forks/florestfox/Domge_MD.svg"</a>
+<a href="https://github.com/florestfox/Domge_MD"><img src="https://img.shields.io/github/repo-size/florestfox/Domge_MD.svg"></a>
+<a href="https://github.com/florestfox/Domge_MD/issues"><img src="https://img.shields.io/github/issues/florestfox/Domge_MD"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
 JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
@@ -25,7 +25,7 @@ JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://whatsapp.com/channel/0029VaYyCtsHltYBaNA0DQ36)
 
 ### About
-This bot was created by DitzOfc, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
+This bot was created by Nanda-Dev, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
  
 ## Types and Programming Languages 
 
@@ -43,7 +43,7 @@ This script is of the Plugins CJS type, and the programming language used is:
 ### 1. Install Aplikasi [Termux](https://f-droid.org/repo/com.termux_118.apk)
 > Setelah Install Aplikasi Termux, Silahkan Salin Teks Dibawah, Setelah Disalin Tempel Di Aplikasi Termux.
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/DitzOfc-Expertise/Komari_Botz.git && cd Komari_Botz;rm -rf session.json;node index
+pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/florestfox/Domge_MD.git && cd Domge_MD;rm -rf session.json;node index
 ```
 ### 2. Pairing Code & Scan
 > Kamu juga bisa memilih opsi, antara pairing code atau scan
@@ -61,7 +61,7 @@ node index.js
 ### 1. Install The [Termux](https://f-droid.org/repo/com.termux_118.apk) App
 > After Installing The Termux Application, Please Copy The Text Below, After Copying Paste In The Termux Application.
 ```
-pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/DitzOfc-Expertise/Komari_Botz.git && cd Komari_Botz;rm -rf session.json;node index
+pkg update -y;pkg upgrade -y;pkg install nodejs -y;pkg install git -y;git clone https://github.com/florestfox/Domge_MD.git && cd Domge_MD;rm -rf session.json;node index
 ```
 ### 2. Pairing Code & Scan
 > You can choose the option between pairing code or scan
@@ -99,7 +99,7 @@ node index.js
 ***
 ```js
 /**
-  * ©DitzOfc
+  * ©Nanda-Dev
   **/
 let buttons = [{ text: '', id: '' }]
 
@@ -114,7 +114,7 @@ conn.sendButtonMsg(jid, 'text', 'footer', [{ text: '', id: '' }], quoted)
 ***
 ```js
 /**
-  * ©DitzOfc
+  * ©Nanda-Dev
   * The imageUrl part must be a string of url
   **/
 let buttons = [{ text: '', id: '' }]
@@ -130,7 +130,7 @@ conn.sendButtonImg(jid, 'text', 'footer', [{ text: '', id: '' }], imageUrl, quot
   ***
 ```js
 /**
-  * ©DitzOfc
+  * ©Nanda-Dev
   **/
 let sections = [{
   title: 'title',
@@ -152,7 +152,7 @@ conn.sendListMsg(jid, 'text', 'footer', 'titleButton', sections, quoted)
 ***
 ```js
 /**
-  * ©DitzOfc
+  * ©Nanda-Dev
   * The imageUrl part must be a string of url
   **/
 let sections = [{
@@ -175,7 +175,7 @@ conn.sendListImg(jid, 'text', 'footer', 'titleButton', sections, imageUrl, quote
 ***
 ```js
 /**
-  * ©DitzOfc
+  * ©Nanda-Dev
   * The imageUrl part must be a string of url
   * [cards] Must follow the example below
   * type = ['buttons', 'url']
@@ -213,7 +213,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact Me
 If you find a bug/error in the script, you can contact me directly via:
 
-[On WhatsApp](https://wa.me/6285717062467)
+[On WhatsApp](https://wa.me/6285812273035)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
