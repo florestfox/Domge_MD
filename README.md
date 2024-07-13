@@ -22,7 +22,7 @@
 
 JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/IQUA7Yyr3qf9GCMUtgOk9w)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://whatsapp.com/channel/0029Vaeb4ZhG3R3gkD4DX414)
 
 ### About
 This bot was created by Nanda-Dev, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
