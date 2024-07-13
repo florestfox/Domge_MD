@@ -6,9 +6,9 @@
 <div align="center">
   <a href="https://github.com/DitzOfc-Expertise/Komari_Botz">
     <img src="https://telegra.ph/file/702d5ba4993c5196930c7.jpg">
-  <h3 align="center">Komari Botz</h3>
+  <h3 align="center">Domge MD</h3>
   <p align="center">
-    Created By DitzOfc
+    Created By Florestfox(Nanda)
  <p/>
 </div>
 
